@@ -11,4 +11,8 @@ for title in soup.find_all("span", class_="score"):
     title=title.text.split()[0]
     lst.append(int(title))
 lst.sort(reverse=True)
-print (lst)
+
+file =open("Upvote_count.txt","w")
+for x in lst:
+    file.write(str(x)+" ")
+file.close()
