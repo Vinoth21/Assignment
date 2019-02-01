@@ -1,1 +1,448 @@
-916 855 493 344 289 284 224 212 198 197 186 179 161 102 76 67 64 64 54 36 34 27 20 19 18 14 13 10 8 
+Superior Testing: Stop Stopping	 1474
+Head of Android Security: Locking Out Law Enforcement Is Unintended Side Effect	 1447
+Apple’s power over Facebook ought to worry the rest of us	 1306
+Converting Wi-Fi signals to electricity with new 2-D materials	 920
+Apple restores Google’s internal iOS apps after certificate misuse punishment	 836
+Apple restores Google’s internal iOS apps after certificate misuse punishment	 836
+'Fuck ethics. Money is everything' FB employees react to scandal on gossip app	 730
+\watch ing Star Wars in Postgres	 630
+Did wine cause a full-scale revolution in Armenia?	 549
+Locast, a Free App Streaming Network TV, Would Love to Get Sued	 517
+A “gold standard” study finds deleting Facebook is great for your mental health	 467
+History of the BASIC Engine (2018)	 452
+Why isn't the internet more fun and weird?	 416
+The Unsung Heroes of Modern Software Development	 410
+Amazon destroys millions of unsold products	 403
+Revoking JWTs (JSON Web Tokens)	 395
+Can China Turn the Middle of Nowhere into the Center of the World Economy?	 389
+Opinion: A.I. Could Worsen Health Disparities	 381
+Racket v7.2	 377
+OpenChird – An Open Source Platform for IoT with Support for LoRaWAN	 371
+One Lawyer, One Day, 194 Felony Cases	 359
+One Lawyer, One Day, 194 Felony Cases	 359
+Apple leaves Facebook offices in disarray after revoking app permissions	 341
+My blog can’t keep up: 500 errors all over	 319
+Amazon announces 4th quarter sales	 312
+Mystery illness sees Canada halve its Cuba embassy staff	 310
+Mystery illness sees Canada halve its Cuba embassy staff	 310
+Interactive SICP	 307
+Interactive SICP	 307
+Show HN: An HTML abstraction centered on simplicity	 287
+Google Play Store Now Open for Progressive Web Apps	 277
+Ask HN: How do you come up with side projects?	 274
+Amiga Music Tracker in JavaScript	 270
+Instacart paying 80 cents an hour because worker received a large tip	 261
+A 500-Year-Long Science Experiment	 240
+A 500-Year-Long Science Experiment	 240
+India’s largest bank SBI leaked account data on millions of customers	 234
+Faster hash joiner with vectorized execution	 226
+Everything You Need to Know About SVG	 225
+Bookwheel, the 16th Century Forerunner to the EBook Reader	 224
+Why some Japanese pensioners want to go to jail	 222
+This is Your Brain Off Facebook - study offers glimpse of unplugging	 217
+When a Memory Allocator Hides Security Bugs	 209
+OxyContin Maker Explored Expansion into “Attractive” Anti-Addiction Market	 202
+Alpine Linux 3.9.0 Released	 200
+UltraViolet DRM will close on July 31, 2019	 199
+UltraViolet DRM will close on July 31, 2019	 199
+UltraViolet DRM will close on July 31, 2019	 199
+UltraViolet DRM will close on July 31, 2019	 199
+Show HN: Learn React fundamentals	 196
+Show HN: Learn React fundamentals	 196
+Ask HN: Is there room for a new ‘curated’ search engine?	 193
+Ask HN: Is there room for a new ‘curated’ search engine?	 193
+Ask HN: Is there room for a new ‘curated’ search engine?	 193
+Ask HN: Is there room for a new ‘curated’ search engine?	 193
+Ask HN: Is there room for a new ‘curated’ search engine?	 193
+Ask HN: Is there room for a new ‘curated’ search engine?	 193
+Consciousness as a State of Matter (2015)	 192
+Death of the private self: how 15 years of Facebook changed the human condition	 189
+Benchmarks of Cache-Friendly Data Structures in C++	 188
+Future AI: The Explorer and the Philosopher	 187
+Google Cloud Firestore NoSQL database is in GA	 172
+Google Cloud Firestore NoSQL database is in GA	 172
+Ask HN: Why is it easier to get a raise with a new job?	 171
+Ask HN: How to practise Algo/DS for interviews that are every 2-3 years?	 166
+Ask HN: How to practise Algo/DS for interviews that are every 2-3 years?	 166
+The Golden Age of Hollywood Tax Avoidance	 164
+Thank You Google – Flight Cancelled	 162
+Applied Machine Learning Is a Meritocracy	 158
+Applied Machine Learning Is a Meritocracy	 158
+Applied Machine Learning Is a Meritocracy	 158
+Applied Machine Learning Is a Meritocracy	 158
+Ask HN: Why can’t I block all incoming calls that aren’t in my contact list?	 157
+Struggling with My Drinker's Problem	 156
+When Was the First Handshake?	 154
+When Was the First Handshake?	 154
+When Was the First Handshake?	 154
+Taming the Mammoth: Why You Should Stop Caring What Other People Think (2014)	 152
+Taming the Mammoth: Why You Should Stop Caring What Other People Think (2014)	 152
+Taming the Mammoth: Why You Should Stop Caring What Other People Think (2014)	 152
+Faucet-pipeline – a framework-independent, pluggable asset pipeline	 151
+2,400 MOOCs Starting in February	 142
+Apple's Business Beyond the iPhone	 141
+Simulating blobs of fluid	 136
+CCPA Will Hit Dev Teams Harder Than GDPR	 134
+CCPA Will Hit Dev Teams Harder Than GDPR	 134
+Coloured Petri Nets: Modelling and Validation of Concurrent Systems (2009) [pdf]	 129
+Coloured Petri Nets: Modelling and Validation of Concurrent Systems (2009) [pdf]	 129
+Locast, a Free App Streaming Network TV, Would Love to Get Sued	 128
+Locast, a Free App Streaming Network TV, Would Love to Get Sued	 128
+Add limits to amount of JavaScript that can be loaded by a website	 125
+The Rebirth of Groove	 122
+The Rebirth of Groove	 122
+The Rebirth of Groove	 122
+How to teach programming to your loved ones [video]	 119
+How to teach programming to your loved ones [video]	 119
+Announcing TypeScript 3.3	 116
+Announcing TypeScript 3.3	 116
+Announcing TypeScript 3.3	 116
+Apple blocks Facebook from running its internal iOS apps	 114
+Arthur C. Clarke: Communications in the Second Century of the Telephone (1977)	 111
+Arthur C. Clarke: Communications in the Second Century of the Telephone (1977)	 111
+Show HN: Pimod – Reconfigure Raspberry Pi Images with Docker-Like Configuration	 110
+CamelCamelCamel: $44.6k disk failure, down until Feb 3	 108
+Our Never Ending 'Scam Season'	 106
+Our Never Ending 'Scam Season'	 106
+Our Never Ending 'Scam Season'	 106
+Lyft Will Reportedly Sue Over New York's Minimum Pay for Drivers Law	 98
+Lyft Will Reportedly Sue Over New York's Minimum Pay for Drivers Law	 98
+Google is discontinuing their free weather API	 95
+Facebook Moves to Block Ad Transparency Tools	 94
+Americans got 26.3B robocalls last year, up 46 percent from 2017	 91
+Americans got 26.3B robocalls last year, up 46 percent from 2017	 91
+Inside the Apollo Guidance Computer's Core Memory	 90
+Want to Stop Fake News? Pay for the Real Thing	 89
+BLACK 3.0 BETA blackest black acrylic paint	 84
+Show HN: ASCII Art with Overstrike	 82
+Show HN: ASCII Art with Overstrike	 82
+Facebook Enterprise Certificates Restored	 81
+Skirting U.S. sanctions, Europeans launch trade mechanism for Iran	 79
+H-1B visa lottery changing to favor those with advanced degrees	 78
+Office 365 global authentication outage	 77
+The Latest YA Twitter Pile on Forces a Rising Star to Self-Cancel	 76
+The Latest YA Twitter Pile on Forces a Rising Star to Self-Cancel	 76
+The Latest YA Twitter Pile on Forces a Rising Star to Self-Cancel	 76
+Mozilla Hubs For Education?	 75
+Mozilla Hubs For Education?	 75
+Mozilla Hubs For Education?	 75
+Apple employee accused stealing ‘Titan’ trade secrets for a Chinese competitor	 74
+The Kubernetes Kustomize KEP Kerfuffle	 71
+No training required: Exploring random encoders for sentence classification	 66
+No training required: Exploring random encoders for sentence classification	 66
+BoltDB vs. Badger: A Comparison of Go Key-Value Databases	 65
+Launch HN: DevFlight (YC W19) – Helping open-source maintainers make money	 64
+Fuzzing para-virtualized devices in Hyper-V	 62
+Fuzzing para-virtualized devices in Hyper-V	 62
+Fuzzing para-virtualized devices in Hyper-V	 62
+Demystifying JOIN Algorithms	 61
+Demystifying JOIN Algorithms	 61
+Demystifying JOIN Algorithms	 61
+FB soars after hours after beating top and bottom line for Q4 earnings	 60
+FB soars after hours after beating top and bottom line for Q4 earnings	 60
+Building a Remote-Friendly Company at Webflow (YC S13)	 59
+Building a Remote-Friendly Company at Webflow (YC S13)	 59
+Building a Remote-Friendly Company at Webflow (YC S13)	 59
+Chinese company secretly diverted Canadian internet traffic to China	 58
+CamelCamelCamel is down for a week, 3 failed hard drives and $45k	 57
+Server-side rendering: how to serve authenticated content	 56
+Server-side rendering: how to serve authenticated content	 56
+The FL Project: The Design of a Function Language (1989) [pdf]	 55
+New Pinebook Pro Will Challenge Google Chromebooks for $199	 52
+New Pinebook Pro Will Challenge Google Chromebooks for $199	 52
+Facebook employees 'angry' after Apple blocks its internal iOS apps	 51
+Facebook employees 'angry' after Apple blocks its internal iOS apps	 51
+Facebook employees 'angry' after Apple blocks its internal iOS apps	 51
+Facebook employees 'angry' after Apple blocks its internal iOS apps	 51
+Facebook will shut down its controversial market research app for iOS	 50
+Facebook will shut down its controversial market research app for iOS	 50
+Facebook will shut down its controversial market research app for iOS	 50
+Advice to new programmers	 48
+Advice to new programmers	 48
+Advice to new programmers	 48
+Worker wage gains just broke 3% for the first time in more than 10 years	 47
+Worker wage gains just broke 3% for the first time in more than 10 years	 47
+Dennis M. Hope Has Owned the Moon Since 1980 Because He Says So	 46
+Dennis M. Hope Has Owned the Moon Since 1980 Because He Says So	 46
+Something mysterious is blocking car key fobs from working in an Alberta town	 45
+Something mysterious is blocking car key fobs from working in an Alberta town	 45
+Facebook Hires Up Three of Its Biggest Privacy Critics	 44
+Facebook Hires Up Three of Its Biggest Privacy Critics	 44
+Facebook Hires Up Three of Its Biggest Privacy Critics	 44
+Facebook Hires Up Three of Its Biggest Privacy Critics	 44
+Become CEO of this sexy startup for just $1 a month	 43
+The first synthetic element	 42
+The first synthetic element	 42
+The first synthetic element	 42
+The first synthetic element	 42
+Another Apple Engineer Accused of Stealing Autonomous Vehicle Trade Secrets	 41
+Another Apple Engineer Accused of Stealing Autonomous Vehicle Trade Secrets	 41
+Another Apple Engineer Accused of Stealing Autonomous Vehicle Trade Secrets	 41
+Facebook employees unable to open internal apps	 40
+Facebook employees unable to open internal apps	 40
+If iframes are evil, why do top websites allow ad networks to embed with them?	 39
+If iframes are evil, why do top websites allow ad networks to embed with them?	 39
+If iframes are evil, why do top websites allow ad networks to embed with them?	 39
+Foxconn Is Reconsidering Plan for Manufacturing in Wisconsin	 38
+Foxconn Is Reconsidering Plan for Manufacturing in Wisconsin	 38
+Terabytes of Enron data have quietly gone missing from the Department of Energy	 37
+Terabytes of Enron data have quietly gone missing from the Department of Energy	 37
+Lock-Free Rust: Crossbeam in 2019	 35
+Lock-Free Rust: Crossbeam in 2019	 35
+Lock-Free Rust: Crossbeam in 2019	 35
+Reconstructing intelligible speech from the human auditory cortex	 34
+Reconstructing intelligible speech from the human auditory cortex	 34
+Reconstructing intelligible speech from the human auditory cortex	 34
+Reconstructing intelligible speech from the human auditory cortex	 34
+Reconstructing intelligible speech from the human auditory cortex	 34
+Ask HN: Is there any social network you trust?	 33
+Ask HN: Is there any social network you trust?	 33
+Unknown strong signal on 14000: amateurradio	 32
+Unknown strong signal on 14000: amateurradio	 32
+Launch HN: Scribe 2.0 (YC W17) – Configurable, Actionable Alerts on Slack	 31
+Launch HN: Scribe 2.0 (YC W17) – Configurable, Actionable Alerts on Slack	 31
+Launch HN: Scribe 2.0 (YC W17) – Configurable, Actionable Alerts on Slack	 31
+Mark Z: why did Facebook target teenagers for spying upon?	 30
+Mark Z: why did Facebook target teenagers for spying upon?	 30
+Why Chicago train tracks are being set on fire	 29
+Why Chicago train tracks are being set on fire	 29
+Amazon Corretto: No-Cost, Multiplatform Distribution of OpenJDK	 28
+Amazon Corretto: No-Cost, Multiplatform Distribution of OpenJDK	 28
+Amazon Corretto: No-Cost, Multiplatform Distribution of OpenJDK	 28
+Amazon Corretto: No-Cost, Multiplatform Distribution of OpenJDK	 28
+Amazon Corretto: No-Cost, Multiplatform Distribution of OpenJDK	 28
+Ask HN: If my company bills me out at $165/hr what should my salary be?	 27
+Ask HN: If my company bills me out at $165/hr what should my salary be?	 27
+Ask HN: If my company bills me out at $165/hr what should my salary be?	 27
+Ask HN: If my company bills me out at $165/hr what should my salary be?	 27
+Ask HN: If my company bills me out at $165/hr what should my salary be?	 27
+Ask HN: If my company bills me out at $165/hr what should my salary be?	 27
+Ask HN: If my company bills me out at $165/hr what should my salary be?	 27
+Information Theory, Inference, and Learning Algorithms (2005) [pdf]	 26
+Information Theory, Inference, and Learning Algorithms (2005) [pdf]	 26
+EBPF and FUSE = Faster FUSE File Systems [pdf]	 25
+EBPF and FUSE = Faster FUSE File Systems [pdf]	 25
+EBPF and FUSE = Faster FUSE File Systems [pdf]	 25
+EBPF and FUSE = Faster FUSE File Systems [pdf]	 25
+EBPF and FUSE = Faster FUSE File Systems [pdf]	 25
+2019: What’s Coming Next on DigitalOcean	 24
+Engineers translate brain signals directly into speech	 23
+Engineers translate brain signals directly into speech	 23
+Engineers translate brain signals directly into speech	 23
+Engineers translate brain signals directly into speech	 23
+An AI crushed two human pros at StarCraft–but it wasn’t a fair fight	 22
+An AI crushed two human pros at StarCraft–but it wasn’t a fair fight	 22
+California startup lets you finance your rent with high-interest loans	 21
+California startup lets you finance your rent with high-interest loans	 21
+California startup lets you finance your rent with high-interest loans	 21
+Mozilla developer fixes Chromium bug caused by Google breaking the spec	 20
+Mozilla developer fixes Chromium bug caused by Google breaking the spec	 20
+Mozilla developer fixes Chromium bug caused by Google breaking the spec	 20
+Mozilla developer fixes Chromium bug caused by Google breaking the spec	 20
+Pentagon compiled research into invisibility cloaking, wormholes, and warp drive	 19
+Pentagon compiled research into invisibility cloaking, wormholes, and warp drive	 19
+Pentagon compiled research into invisibility cloaking, wormholes, and warp drive	 19
+Pentagon compiled research into invisibility cloaking, wormholes, and warp drive	 19
+Apple blocks Facebook from running its internal iOS apps	 18
+Apple blocks Facebook from running its internal iOS apps	 18
+Apple blocks Facebook from running its internal iOS apps	 18
+Apple blocks Facebook from running its internal iOS apps	 18
+Apple blocks Facebook from running its internal iOS apps	 18
+Apple blocks Facebook from running its internal iOS apps	 18
+Apple blocks Facebook from running its internal iOS apps	 18
+Apple blocks Facebook from running its internal iOS apps	 18
+Evidence of Kremlin assassination plot that British authorities sidelined	 17
+Evidence of Kremlin assassination plot that British authorities sidelined	 17
+Evidence of Kremlin assassination plot that British authorities sidelined	 17
+Evidence of Kremlin assassination plot that British authorities sidelined	 17
+Evidence of Kremlin assassination plot that British authorities sidelined	 17
+Evidence of Kremlin assassination plot that British authorities sidelined	 17
+Evidence of Kremlin assassination plot that British authorities sidelined	 17
+Evidence of Kremlin assassination plot that British authorities sidelined	 17
+Use a special phrase to mark paywalled articles on HN	 16
+Use a special phrase to mark paywalled articles on HN	 16
+Use a special phrase to mark paywalled articles on HN	 16
+Use a special phrase to mark paywalled articles on HN	 16
+Use a special phrase to mark paywalled articles on HN	 16
+Use a special phrase to mark paywalled articles on HN	 16
+Mark Zuckerberg’s Delusion of Consumer Consent	 15
+Mark Zuckerberg’s Delusion of Consumer Consent	 15
+Mark Zuckerberg’s Delusion of Consumer Consent	 15
+Mark Zuckerberg’s Delusion of Consumer Consent	 15
+Mark Zuckerberg’s Delusion of Consumer Consent	 15
+Mark Zuckerberg’s Delusion of Consumer Consent	 15
+Mark Zuckerberg’s Delusion of Consumer Consent	 15
+Mark Zuckerberg’s Delusion of Consumer Consent	 15
+Mark Zuckerberg’s Delusion of Consumer Consent	 15
+Mark Zuckerberg’s Delusion of Consumer Consent	 15
+Learn How to Listen – One of the hardest parts of being a data scientist	 14
+Learn How to Listen – One of the hardest parts of being a data scientist	 14
+Learn How to Listen – One of the hardest parts of being a data scientist	 14
+Learn How to Listen – One of the hardest parts of being a data scientist	 14
+Learn How to Listen – One of the hardest parts of being a data scientist	 14
+Learn How to Listen – One of the hardest parts of being a data scientist	 14
+Learn How to Listen – One of the hardest parts of being a data scientist	 14
+Japanese government plans to hack into citizens' IoT devices	 13
+Japanese government plans to hack into citizens' IoT devices	 13
+Japanese government plans to hack into citizens' IoT devices	 13
+Japanese government plans to hack into citizens' IoT devices	 13
+Japanese government plans to hack into citizens' IoT devices	 13
+Japanese government plans to hack into citizens' IoT devices	 13
+Japanese government plans to hack into citizens' IoT devices	 13
+Japanese government plans to hack into citizens' IoT devices	 13
+Japanese government plans to hack into citizens' IoT devices	 13
+Japanese government plans to hack into citizens' IoT devices	 13
+Japanese government plans to hack into citizens' IoT devices	 13
+Amazon has forced attrition rates (someone has to go every year)	 12
+Amazon has forced attrition rates (someone has to go every year)	 12
+Amazon has forced attrition rates (someone has to go every year)	 12
+Amazon has forced attrition rates (someone has to go every year)	 12
+Amazon has forced attrition rates (someone has to go every year)	 12
+Amazon has forced attrition rates (someone has to go every year)	 12
+Amazon has forced attrition rates (someone has to go every year)	 12
+Amazon has forced attrition rates (someone has to go every year)	 12
+Apple revoked Facebook’s iOS developer certificate	 11
+Apple revoked Facebook’s iOS developer certificate	 11
+Apple revoked Facebook’s iOS developer certificate	 11
+Apple revoked Facebook’s iOS developer certificate	 11
+Designing a circular knitting machine from scratch [video]	 10
+Designing a circular knitting machine from scratch [video]	 10
+Designing a circular knitting machine from scratch [video]	 10
+Designing a circular knitting machine from scratch [video]	 10
+Designing a circular knitting machine from scratch [video]	 10
+Designing a circular knitting machine from scratch [video]	 10
+Designing a circular knitting machine from scratch [video]	 10
+Designing a circular knitting machine from scratch [video]	 10
+Designing a circular knitting machine from scratch [video]	 10
+On Building an Instagram Street Art Dataset and Detection Model	 9
+On Building an Instagram Street Art Dataset and Detection Model	 9
+“I, Robot” – the 3 laws considered harmful	 8
+“I, Robot” – the 3 laws considered harmful	 8
+“I, Robot” – the 3 laws considered harmful	 8
+“I, Robot” – the 3 laws considered harmful	 8
+“I, Robot” – the 3 laws considered harmful	 8
+“I, Robot” – the 3 laws considered harmful	 8
+“I, Robot” – the 3 laws considered harmful	 8
+“I, Robot” – the 3 laws considered harmful	 8
+“I, Robot” – the 3 laws considered harmful	 8
+“I, Robot” – the 3 laws considered harmful	 8
+“I, Robot” – the 3 laws considered harmful	 8
+“I, Robot” – the 3 laws considered harmful	 8
+“I, Robot” – the 3 laws considered harmful	 8
+“I, Robot” – the 3 laws considered harmful	 8
+“I, Robot” – the 3 laws considered harmful	 8
+“I, Robot” – the 3 laws considered harmful	 8
+“I, Robot” – the 3 laws considered harmful	 8
+Apple to ban Facebook’s research app that collects users’ personal information	 7
+Apple to ban Facebook’s research app that collects users’ personal information	 7
+Apple to ban Facebook’s research app that collects users’ personal information	 7
+Apple to ban Facebook’s research app that collects users’ personal information	 7
+Apple to ban Facebook’s research app that collects users’ personal information	 7
+Apple to ban Facebook’s research app that collects users’ personal information	 7
+Apple to ban Facebook’s research app that collects users’ personal information	 7
+Apple to ban Facebook’s research app that collects users’ personal information	 7
+Apple to ban Facebook’s research app that collects users’ personal information	 7
+Apple to ban Facebook’s research app that collects users’ personal information	 7
+Apple to ban Facebook’s research app that collects users’ personal information	 7
+Apple to ban Facebook’s research app that collects users’ personal information	 7
+Apple to ban Facebook’s research app that collects users’ personal information	 7
+Apple to ban Facebook’s research app that collects users’ personal information	 7
+Apple to ban Facebook’s research app that collects users’ personal information	 7
+Apple to ban Facebook’s research app that collects users’ personal information	 7
+Apple to ban Facebook’s research app that collects users’ personal information	 7
+Rails 6 just committed to shipping source maps by default in production	 6
+Rails 6 just committed to shipping source maps by default in production	 6
+Rails 6 just committed to shipping source maps by default in production	 6
+Rails 6 just committed to shipping source maps by default in production	 6
+Rails 6 just committed to shipping source maps by default in production	 6
+Rails 6 just committed to shipping source maps by default in production	 6
+Rails 6 just committed to shipping source maps by default in production	 6
+Rails 6 just committed to shipping source maps by default in production	 6
+Rails 6 just committed to shipping source maps by default in production	 6
+Rails 6 just committed to shipping source maps by default in production	 6
+Rails 6 just committed to shipping source maps by default in production	 6
+Rails 6 just committed to shipping source maps by default in production	 6
+Rails 6 just committed to shipping source maps by default in production	 6
+Rails 6 just committed to shipping source maps by default in production	 6
+Rails 6 just committed to shipping source maps by default in production	 6
+Rails 6 just committed to shipping source maps by default in production	 6
+Rails 6 just committed to shipping source maps by default in production	 6
+Rails 6 just committed to shipping source maps by default in production	 6
+Rails 6 just committed to shipping source maps by default in production	 6
+Rails 6 just committed to shipping source maps by default in production	 6
+Rails 6 just committed to shipping source maps by default in production	 6
+Rails 6 just committed to shipping source maps by default in production	 6
+Rails 6 just committed to shipping source maps by default in production	 6
+Rails 6 just committed to shipping source maps by default in production	 6
+Rails 6 just committed to shipping source maps by default in production	 6
+Rails 6 just committed to shipping source maps by default in production	 6
+Nest Cams Hijacked in the Name of PewDiePie and North Korea Pranks	 5
+Nest Cams Hijacked in the Name of PewDiePie and North Korea Pranks	 5
+Nest Cams Hijacked in the Name of PewDiePie and North Korea Pranks	 5
+Nest Cams Hijacked in the Name of PewDiePie and North Korea Pranks	 5
+Nest Cams Hijacked in the Name of PewDiePie and North Korea Pranks	 5
+Nest Cams Hijacked in the Name of PewDiePie and North Korea Pranks	 5
+Nest Cams Hijacked in the Name of PewDiePie and North Korea Pranks	 5
+Nest Cams Hijacked in the Name of PewDiePie and North Korea Pranks	 5
+Nest Cams Hijacked in the Name of PewDiePie and North Korea Pranks	 5
+Nest Cams Hijacked in the Name of PewDiePie and North Korea Pranks	 5
+Nest Cams Hijacked in the Name of PewDiePie and North Korea Pranks	 5
+Nest Cams Hijacked in the Name of PewDiePie and North Korea Pranks	 5
+Nest Cams Hijacked in the Name of PewDiePie and North Korea Pranks	 5
+Nest Cams Hijacked in the Name of PewDiePie and North Korea Pranks	 5
+Nest Cams Hijacked in the Name of PewDiePie and North Korea Pranks	 5
+Nest Cams Hijacked in the Name of PewDiePie and North Korea Pranks	 5
+Nest Cams Hijacked in the Name of PewDiePie and North Korea Pranks	 5
+Nest Cams Hijacked in the Name of PewDiePie and North Korea Pranks	 5
+Nest Cams Hijacked in the Name of PewDiePie and North Korea Pranks	 5
+Nest Cams Hijacked in the Name of PewDiePie and North Korea Pranks	 5
+Nest Cams Hijacked in the Name of PewDiePie and North Korea Pranks	 5
+Nest Cams Hijacked in the Name of PewDiePie and North Korea Pranks	 5
+Sql: Inner Join vs. Outer Join	 4
+Sql: Inner Join vs. Outer Join	 4
+Sql: Inner Join vs. Outer Join	 4
+Sql: Inner Join vs. Outer Join	 4
+Sql: Inner Join vs. Outer Join	 4
+Sql: Inner Join vs. Outer Join	 4
+Sql: Inner Join vs. Outer Join	 4
+Sql: Inner Join vs. Outer Join	 4
+Sql: Inner Join vs. Outer Join	 4
+Sql: Inner Join vs. Outer Join	 4
+Sql: Inner Join vs. Outer Join	 4
+Sql: Inner Join vs. Outer Join	 4
+Sql: Inner Join vs. Outer Join	 4
+Sql: Inner Join vs. Outer Join	 4
+Sql: Inner Join vs. Outer Join	 4
+Sql: Inner Join vs. Outer Join	 4
+Sql: Inner Join vs. Outer Join	 4
+Sql: Inner Join vs. Outer Join	 4
+Sql: Inner Join vs. Outer Join	 4
+Sql: Inner Join vs. Outer Join	 4
+Sql: Inner Join vs. Outer Join	 4
+Sql: Inner Join vs. Outer Join	 4
+Sql: Inner Join vs. Outer Join	 4
+Sql: Inner Join vs. Outer Join	 4
+Sql: Inner Join vs. Outer Join	 4
+Sql: Inner Join vs. Outer Join	 4
+Sql: Inner Join vs. Outer Join	 4
+Sql: Inner Join vs. Outer Join	 4
+Sql: Inner Join vs. Outer Join	 4
+Sql: Inner Join vs. Outer Join	 4
+Sql: Inner Join vs. Outer Join	 4
+Sql: Inner Join vs. Outer Join	 4
+Apple was warned of the FaceTime bug over a week ago	 3
+Apple was warned of the FaceTime bug over a week ago	 3
+Apple was warned of the FaceTime bug over a week ago	 3
+Apple was warned of the FaceTime bug over a week ago	 3
+Apple was warned of the FaceTime bug over a week ago	 3
+Apple was warned of the FaceTime bug over a week ago	 3
+Apple was warned of the FaceTime bug over a week ago	 3
+Apple was warned of the FaceTime bug over a week ago	 3
+Apple was warned of the FaceTime bug over a week ago	 3
+Apple was warned of the FaceTime bug over a week ago	 3
+Apple was warned of the FaceTime bug over a week ago	 3
+Apple was warned of the FaceTime bug over a week ago	 3
+Apple was warned of the FaceTime bug over a week ago	 3
+Apple was warned of the FaceTime bug over a week ago	 3
+Apple was warned of the FaceTime bug over a week ago	 3
+Apple was warned of the FaceTime bug over a week ago	 3
