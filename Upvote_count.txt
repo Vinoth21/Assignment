@@ -1,1 +1,30 @@
-916 855 493 344 289 284 224 212 198 197 186 179 161 102 76 67 64 64 54 36 34 27 20 19 18 14 13 10 8 
+Firefox 66 to block automatically playing audible video and audio	1278
+If Software Is Funded from a Public Source, Its Code Should Be Open Source	866
+MIT Hacker Tools: a lecture series on programmer tools	594
+Slack Says It's Filed to Go Public	411
+“Lambda and serverless is one of the worst forms of proprietary lock-in” (2017)	390
+Cheap Chinese electric cars are coming to the US and Europe	267
+A Humility Training Exercise for Technical Interviewers	259
+MyBrandNewLogo – A 3-step Logo Generator	238
+Learning Rust via Advent of Code	236
+Tesla to Buy Energy Storage Firm Maxwell Tech at $4.75 a Share	231
+TensorFlow.js: Machine Learning for the Web and Beyond	166
+Matrix at Fosdem 2019	157
+Alphabet Announces Fourth Quarter and Fiscal Year 2018 Results	132
+Z.lua – A new cd command that navigates faster by learning your habits	123
+SAT/SMT by Example [pdf]	117
+Hatari: An Atari ST/STE/TT/Falcon Emulator	84
+JD Salinger's unseen writings to be published, family confirms	66
+Transformer-XL: Unleashing the Potential of Attention Models	62
+Unusual sugar from cyanobacteria acts as natural herbicide	59
+Our Language Affects What We See	48
+Electron v5.0 Timeline	47
+Bringing black and white photos to life using Colourise.sg	45
+A new predictive model for more accurate electrical grid mapping	34
+The Zipper Rule on German Roads	22
+SimCity, the war on welfare and the pitfalls of modeling	20
+Net.wars (1997)	16
+How long will a 64 bit Transaction-ID last in PostgreSQL?	11
+Fiberbots: Design of a multi-agent, fiber composite digital fabrication system	9
+Shooting Dr. Tourette	8
+BuildZoom (marketplace for construction) is hiring engineers	0

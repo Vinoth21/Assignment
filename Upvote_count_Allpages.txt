@@ -1,0 +1,666 @@
+1284	Firefox 66 to block automatically playing audible video and audio
+1123	Dotfile madness
+947	New study: Google manipulates users into constant tracking
+882	Apple blocks Google from running its internal iOS apps
+875	If Software Is Funded from a Public Source, Its Code Should Be Open Source
+672	One of the Biggest At-Home DNA Testing Companies Is Working with the FBI
+607	MIT Hacker Tools: a lecture series on programmer tools
+596	EU and Japan create world's biggest free trade zone
+523	A small notebook for a system administrator
+514	Bye, Bye, Google
+503	Show HN: Learn React fundamentals
+458	Event Sourcing is Hard
+456	Interactive SICP
+426	Product-building articles by PMs at major tech companies
+424	A Python Interpreter Written in Rust
+415	Slack Says It's Filed to Go Public
+411	“Lambda and serverless is one of the worst forms of proprietary lock-in” (2017)
+410	AWS Drives More Than Half of Amazon's Operating Income
+405	Browse State-of-the-Art Machine Learning Papers with Code
+398	Ask HN: Who is hiring? (February 2019)
+385	More Google Employees Are Losing Faith in Their CEO's Vision
+368	If You're Often Angry or Irritable, You May Be Depressed
+353	Show HN: GuiLite – Tiny UI framework, runs on MCU without OS
+341	The UAE’s secret hacking team of U.S. mercenaries
+334	React as a UI Runtime
+329	Write tests. Not too many. Mostly integration (2017)
+324	What Impossible Meant to Feynman
+322	Interactive 3D ASCII scenes
+314	Makefiles – Best Practices
+305	Forget privacy: you're terrible at targeting anyway
+299	Comprehensive Python Cheatsheet (2018)
+298	Ask HN: Top three questions for a startup before accepting a job offer?
+293	Insurance Company Says NotPetya Is an “Act of War”, Refuses to Pay
+282	Google Cloud Firestore NoSQL database is in GA
+280	Trust-Busting as the Unsexy Answer to Google and Facebook
+279	EU charges eight banks over alleged government bond cartel
+278	In France, Comic Books Are Serious Business
+274	How many .com domain names are unused?
+269	Cheap Chinese electric cars are coming to the US and Europe
+265	Google Has Quietly Dropped Ban on Personally Identifiable Web Tracking (2016)
+261	A Humility Training Exercise for Technical Interviewers
+259	A Design Flaw Behind MacBook Pro’s “Stage Light” Effect [video]
+258	Want to Stop Fake News? Pay for the Real Thing
+255	Debugging Emacs, or How I Learned to Stop Worrying and Love DTrace (2018)
+252	New Technology Uses Lasers to Transmit Audible Messages to Specific People
+249	What’s Wrong with the Raspberry Pi
+248	The Art of PNG Glitch (2015)
+246	Stealing the Enemy's Urban Advantage: The Battle of Sadr City
+243	Microsoft’s Resurgence Under Satya Nadella
+242	Criminals Are Tapping into the Phone Network Backbone to Empty Bank Accounts
+241	Learning Rust via Advent of Code
+240	MyBrandNewLogo – A 3-step Logo Generator
+238	I have chosen the wrong flight dates because your date picker is broken
+238	Homebrew 2.0.0 released
+237	Apple restores Google’s internal iOS apps after certificate misuse punishment
+235	Mozilla Raises Concerns Over Facebook’s Lack of Transparency
+234	Canada's Bell Tried to Have VPNs Banned During NAFTA Negotiations
+234	My First Year as a Solo Developer
+232	Tesla to Buy Energy Storage Firm Maxwell Tech at $4.75 a Share
+230	Things that are more inequitable than road pricing
+230	McKinsey Advised Purdue Pharma How to ‘Turbocharge’ Opioid Sales, Lawsuit Says
+228	What we've learned about hiring engineering managers
+228	Blackmailers use false copyright claims to shut down victims' YouTube accounts
+224	Something mysterious is blocking car key fobs from working in an Alberta town
+221	GreatFire is tracking Apple iOS applications for instances of censorship
+217	Extramaze: Using Racket, PostgreSQL, AWS, but no ads or JavaScript (2018)
+214	Microsoft Azure data deleted because of DNS outage
+213	Show HN: The operating system I built as my high school project (2016)
+213	Huge Cavity in Antarctic Glacier Signals Rapid Decay
+201	Everything you ever wanted to know about building a secure password reset (2012)
+198	CCPA Will Hit Dev Teams Harder Than GDPR
+195	Machine learning leads mathematicians to unsolvable problem
+195	The cloud skills shortage and the unemployed army of the certified
+194	Is China’s corruption-busting AI being turned off for being too efficient?
+193	Stylelint – A modern linter for CSS
+192	Intel to Discontinue Itanium 9700 ‘Kittson’ Processor, the Last of the Itaniums
+187	Lombok makes Java cool again
+185	Forget everything you know about 3D printing – the ‘replicator’ is here
+184	A Kingdom from Dust (2018)
+184	Ask HN: What tech stack would you use to build an open-source Google Keep clone?
+180	Openwrt 18.06.2 released
+178	Philippines tops world internet usage index with an average 10 hours a day
+178	Dear web developers: set the font color, too
+178	$190M missing after crypto exchange Quadriga CEO dies
+172	Be Careful about 23andMe’s Health Test
+172	Saudi Arabia runs online database of women to track them, stop them running away
+169	Cruel and Unusual Punishment
+169	Self-driving cars will "cruise" to avoid paying to park
+168	Scott Alexander Reviews Thiel's Zero to One
+167	TensorFlow.js: Machine Learning for the Web and Beyond
+165	The Soviet license plate game and Kolmogorov complexity
+164	Browser diversity starts with us
+164	German town votes ‘No’ to street names
+162	BuzzFeed’s 19-year-old quizmaker will no longer work for free
+161	Hacker facing an 8-year jail term for exposing vulnerabilities in Magyar Telekom
+160	WebAssembly Troubles Part 1: WebAssembly Is Not a Stack Machine
+160	Out-Of-Office Messages Are a Security Risk
+159	Matrix at Fosdem 2019
+159	Ford Stole Tech for Best-Selling Trucks from MIT, Professors Say
+157	God Mode Unlocked – Hardware Backdoors in Via C3 CPUs (2018) [video]
+157	The Unreasonable Effectiveness of Recurrent Neural Networks (2015)
+157	Helping to Build Cloudflare, Part 2: The Worst Two Weeks
+152	DNA Evidence Can Be Fabricated, Scientists Show (2009)
+151	CSS Reference
+150	Asterius – Haskell to WebAssembly Compiler
+150	The Over-Engaged Knowledge Worker
+148	Why Captchas have gotten so difficult
+148	Finding Kafka’s throughput limit in Dropbox infrastructure
+148	Stack Overflow: Helping One Million Developers Exit Vim (2017)
+147	Einsum Is All You Need – Einstein Summation in Deep Learning (2018)
+145	Istio – An open platform to connect, manage, and secure microservices
+145	Scientists cut the tolerable intake of PFAs by 99.9%
+142	China unveils draft law to allow fully foreign-owned enterprises
+138	Huawei Sting Offers Rare Glimpse of the U.S. Targeting a Chinese Giant
+137	Everything You Never Wanted to Know About CMake
+137	Uber’s transit offering just went live in Denver
+137	Full-system dynamic tracing on Linux using eBPF and bpftrace
+136	McClatchy Follows BuzzFeed, Vice, and Others in Cutting Staff
+136	I'm not 54. I'm 22 with 32 years experience
+135	Aztec Political Thought (2013)
+134	Alphabet Announces Fourth Quarter and Fiscal Year 2018 Results
+133	VW, BMW and Daimler hold talks on cooperation in self-driving cars
+133	UltraViolet DRM will close on July 31, 2019
+132	Visual Quantum Physics
+131	FOSDEM is a free event for software developers to meet
+131	Oracle's Newest Audit Tactic: Focusing on Java
+131	Everything Is Going Deep: ‘The Age of Surveillance Capitalism’
+130	Netflix and FreeBSD: Using Open Source to Deliver Streaming Video [pdf]
+129	A Mini-Introduction to Information Theory
+128	Glowing reviews tout counterfeit cash on the dark web
+128	Created a fake account and Facebook still figured out who I am. How?
+127	Is Earth's Magnetic Field Flipping Soon?
+127	Applied Machine Learning Is a Meritocracy
+127	How I negotiated a software-engineering job offer in Silicon Valley
+126	Is There a Fourth Neutrino Out There in the Universe?
+125	Z.lua – A new cd command that navigates faster by learning your habits
+123	Interview with Ted Nelson
+122	Chase had ads on 400K sites then on just 5K and got the same results (2017)
+121	The infrastructural humiliation of America
+120	Faster hash joiner with vectorized execution
+120	4X
+119	All late projects are the same (2011) [pdf]
+119	Studies Shoot Down Tech’s Harmful Effects on Kids – So Now What?
+119	Life Off the Grid, Part 2: Playing Ultima Underworld
+118	The rise of alternative milks
+117	SAT/SMT by Example [pdf]
+117	New security flaw impacts 5G, 4G, and 3G telephony protocols
+116	Public APIs: A collective list of free APIs
+116	Two-factor auth with public-key cryptography
+116	I scraped all of Fandango's movie listings
+115	Malicious Deep Fake Prohibition Act of 2018 [pdf]
+115	Apple’s New iPad Pro Ads Were Shot and Made Entirely on the iPad Pro [video]
+114	Snopes pulls out of its fact-checking partnership with Facebook
+113	A brief history of the UUID (2017)
+113	Counting solar panels in the U.S. with machine learning and satellite images
+111	Deep Dive into Math Behind Deep Networks
+110	Vice Media to Reorganize, Lay Off 10 Percent of Staff
+109	AdaCore Joins the RISC-V Foundation to Provide C and Ada Compilation Support
+108	Cargo's next few years
+108	A Kenyan Engineer Who Created Gloves That Turn Sign Language into Speech
+107	Defense of Amazon's Face Recognition Tool Undermined by Only Known Police Client
+106	Kenyans Say Chinese Investment Brings Racism and Discrimination (2018)
+103	Show HN: Linjat, a small puzzle game
+102	Mermaid – Generation of diagrams and flowcharts from text
+102	Why Is PayPal So Successful Yet They Treat Merchants Like Crap?
+101	Behind the Lion Air Crash, a Trail of Decisions Kept Pilots in the Dark
+101	Digital identity has three layers, and you can only protect one of them
+100	More bad news for controversial 20-year-old claim of dark matter detection
+99	Solar Farms Shine a Ray of Hope on Bees and Butterflies
+98	Rare snow rollers spotted in field near Marlborough, UK
+97	Obfuscated JavaScript, scam emails, and American Express
+95	Pandas extension arrays
+94	Making SetInterval Declarative with React Hooks
+94	A Trip Behind the Spectacle at Davos
+94	Limiting JavaScript?
+93	Rules for a Better Conference Name Badge (2017)
+91	Josiah Wedgwood
+91	Phenylephrine Is No More Effective Than Placebo for Nasal Congestion (2015)
+90	Rough sleeping has been almost eradicated in Helsinki
+89	California's constitution makes affordable housing hard to build
+88	Wake Word: An Algorithmic Nightmare Game
+88	One Man's Quest to Prove Vermont Has Terrible Cell Service
+88	One Lawyer, One Day, 194 Felony Cases
+88	The Death of a Dreamer
+87	The IPO of Virgin Trains U.S.A.
+86	Hatari: An Atari ST/STE/TT/Falcon Emulator
+86	Ask HN: Why is it easier to get a raise with a new job?
+84	Leap Spins out of YC
+84	RenTech Created the Ultimate, Tax-Free IRA Account for Employees
+83	Navigation Should Be Boring
+83	Holocaust Paradox: Long Lives for Those Who Survived
+81	The plight of Japan's hikikomori
+81	Ask HN: Are side-projects still a good way to generate passive income?
+80	Show HN: E3Dos – A 3D engine I wrote when I was a teen
+79	GNOME Shell and Mutter
+79	It’s Time to Ditch Google Analytics
+78	Python 3.8.0a1 is now available for testing
+77	The Takedown That Put Carlos Ghosn in Jail
+77	Did Finland’s basic income experiment work? [video]
+76	Attorneys General in Six States Are Now Investigating Facebook's Data Practices
+76	The 'stuff' of the universe keeps changing
+75	If Your Dreams Don't Serve You, Let Them Go
+75	How transportation can transform a city – Seattle's double decker tunnel
+74	Amazon fires employees who supported “yellow vest” blockades of Amazon sites
+74	Apple patents MacBook with key switches under a flexible touchscreen keyboard
+72	Glossary of Stand Up Comedy Terms
+71	Rising CO2 won't make trees grow more, study suggests
+71	Show HN: Gita – a CLI tool to manage multiple Git repos
+71	Bird CEO on scooter startup copycats, unit economics, safety and seasonality
+70	Culture of ‘Bending Rules’ in India Challenges U.S. Drug Agency
+70	Ensuring a Level Playing Field for Rideshare
+70	Tech Salaries Stagnant Despite Low Unemployment: Survey
+69	Spotify in Talks to Buy Gimlet Media
+68	How to Make a User with a Numeric Username in Linux (2014)
+68	Revive a Cisco IDS into a Capable OpenBSD Computer
+68	Just because it’s falsifiable doesn’t mean it’s good science
+67	ASCII generator: image to text, image to image, video to video
+67	Sheryl Sandberg: The teens consented
+66	JD Salinger's unseen writings to be published, family confirms
+65	GNU Binutils 2.32 Released
+65	Ford's designers are learning to create 3D cars in VR
+64	Drones Help Rid Galapagos Island of Invasive Rats
+63	The Welfare Effects of Social Media [pdf]
+63	San Francisco has more drug addicts than students enrolled in public high school
+62	Transformer-XL: Unleashing the Potential of Attention Models
+62	Gym Class Is So Bad, Kids Are Skipping School to Avoid It
+62	Ask HN: Freelancer? Seeking Freelancer? (February 2019)
+62	CamelCamelCamel: $44.6k disk failure, down until Feb 3
+61	When Rust is safer than Haskell
+61	Ask HN: Who wants to be hired? (February 2019)
+60	Bastion Fort
+60	Where do Google's flaky tests come from?
+59	Unusual sugar from cyanobacteria acts as natural herbicide
+59	Why Semantic Versioning Isn't (2015)
+58	Chinese New Year Is World’s Biggest Human Migration
+57	Recent events highlight an unpleasant scientific practice: ethics dumping
+57	A Post Mortem on Growth Hacking
+57	Tech Is Splitting the U.S. Work Force in Two
+56	Understanding the Network Interface Card
+56	Unemployment is low only because 'involuntary' part-time work is high
+56	The U.S. Withdrawal from the INF Treaty Is the Next Step in a Global Arms Race
+55	A catalog of wealth-creation mechanisms (2009)
+55	Show HN: Buckaroo – A decentralized C++ package manager
+55	Ask HN: Can companies ask for private info before any interview/offer?
+54	New U.S. Experiments Aim to Create Gene-Edited Human Embryos
+53	Our Language Affects What We See
+53	Ride the Serverless Wave with DigitalOcean's One-Click Droplet
+53	A Dutch historian who took billionaires to task over tax at Davos
+53	Colombia’s Plan to Welcome Millions of Venezuelan Migrants
+52	Electron v5.0 Timeline
+52	GPU-sentry: Flask-based package for monitoring utilisation of GPUs
+52	A model to simulate how ideas move from one academic institution to another
+52	‘Magnetic graphene’ switches between insulator and conductor
+52	Robot automation will 'take 800M jobs by 2030' (2017)
+50	Modern LZ Compression
+50	The Last Free Generation (2018)
+50	South Korea and Sweden are the most innovative countries in the world
+49	TyX: Serverless Back-End Framework in TypeScript for Lambda
+49	Ask HN: What have you found the most useful interview question to be?
+48	ASP.NET Core: Saturating 10GbE at 7M Rps
+48	RFC: linear history vs merge commits
+48	Ask HN: Is there an open source curriculum for for a mathematics degree?
+48	Slick Olive Oil Label Designed to Deceive
+47	Hostility toward spiritual traditions may be hampering empirical inquiry
+47	CSS-In-JS and Static Rendering
+47	A science lab in your pocket?
+47	Life of a Sql Query
+47	Amazon announces 4th quarter sales
+46	Bringing black and white photos to life using Colourise.sg
+45	GM to lay off 4,250 salaried workers in North America starting Monday
+45	Who Were the Pinkertons?
+44	Sr.ht experimental mercurial support
+44	How Software Architecture Learns (2011)
+43	Ask HN: Where am I going wrong?
+43	Evolution has not prepared your brain for today’s porn
+43	Slow CI: real problem or easy excuse for developers?
+42	Putting neural networks under the microscope
+42	Lenny Baum as trader (1982) [pdf]
+42	Preliminary Macintosh Business Plan (1981) [pdf]
+42	Movies Get Chess Wrong
+42	Pattern Matching Custom Data Types in TypeScript
+42	Ganbreeder – Create beautiful, wild and weird images
+42	Bug Bombs Don’t Get Rid of Bugs, Study Suggests
+42	Revoking JWTs (JSON Web Tokens)
+41	Scalable Video Technology for AV1 Encoder
+41	Thrill-Seekers Who Sneak into the Super Bowl
+41	Silicon Valley Puts the ‘Con’ in Consent
+41	A 49-inch ultrawide monitor is extravagant, ridiculous, and amazing
+41	The Sorry State of the World Economy
+41	Announcing TypeScript 3.3
+40	Reltron: a GUI for exploring relational databases
+40	Visiting the Anderton Boat Lift on My Narrowboat (2017) [video]
+40	Reeling from algorithm glitch, Instacart institutes $3 minimum fee for drivers
+39	Generalized Language Models
+39	Building Consistent Transactions with Inconsistent Replication (2015) [pdf]
+39	A London Orchestra Broke International Law [video]
+39	Canada’s ability to test China’s Huawei for security breaches questioned (2018)
+39	Death of the private self: how 15 years of Facebook changed the human condition
+38	Procedure Calls Are the Assembly Language of Software Interconnection (1994) [pdf]
+38	App Wants to Track Every Homeless Person in San Francisco
+38	We dismantle Facebook’s memo defending its “Research”
+38	FSF adds Hyperbola GNU/Linux-libre to list of endorsed GNU/Linux distributions
+38	Oumuamua continues to perplex astronomers a year after it vanished
+36	Yoshua Bengio Worries About China's Use of AI
+36	PolarPod – Around Antarctica
+36	Digital Media: What Went Wrong
+36	Amazon destroys millions of unsold products
+35	A new predictive model for more accurate electrical grid mapping
+35	Major DNA Testing Company Sharing Genetic Data with the FBI
+35	Monitoring Heart Health, One Toilet Seat at a Time
+35	DIA Study: Invisibility Cloaking Theory and Experiments
+35	Police stop people for covering their faces from facial recognition camera
+35	Guido van Rossum Core Developer Grant
+34	Git reset vs. Git revert
+34	Show HN: Vue Workshop aimed at engineers with no front-end knowledge
+34	Ironclad (YC S15) raises $23M led by Sequoia
+34	Whole-body cryotherapy as adjunct treatment of depressive and anxiety disorders
+34	Uber services suspended in Barcelona
+33	Show HN: YouTube GIF Maker with Full Search and No Watermark
+33	Tesla Model 3 Owners Vent About Polar Vortex Affecting Cars
+32	SimCity, the war on welfare and the pitfalls of modeling
+32	SortSupport: Sorting in Postgres at Speed
+32	Antarctic Weddell expedition targets Shackleton's lost ship
+32	WebAssembly Troubles Part 3: The Stack Is Not the Stack
+32	A large majority of health news shared on Facebook is fake or misleading
+32	PinePhone Linux smartphone to sell for $149, dev kits coming soon
+31	New York Beats Out San Francisco to Be World’s Best Tech City
+31	Ask HN: How do you market your product/services?
+31	How to Delete Your Data from 23andMe, Ancestry, and Other Sites
+31	Pi-Hole v4.2 Available with Shared Memory, New Blocking Modes, and More
+31	If Silicon Valley’s unicorn bubble bursts, what legacy will it leave?
+30	The Wasting of Britain's Marshall Aid
+30	A Faster Pseudopolynomial Time Algorithm for Subset Sum (2015)
+30	Hawaii considers ban on cigarette sales
+30	How It Feels to Learn Data Science in 2019
+29	Peter Thiel funds a science publication questioning evolution and climate change
+29	Flashing My Lenovo X230 with Coreboot
+29	Accentuate the Positive
+29	Conquering convolutional neural networks for the curious and confused
+28	Sound, Motion, Notation (2018)
+28	What Google Learned From Its Quest to Build the Perfect Team (2016)
+28	Shutting down Google+ for consumer (personal) accounts on April 2, 2019
+28	The Fundraising Bible – How to raise money for your startup
+28	The Chinese Room Argument
+27	A word about systemd
+27	Can We Prove Time Protection?
+27	Apple has restored Facebook’s enterprise certificate
+27	Google Employees Are Fighting with Executives Over Pay
+26	Usernetes: run Docker and Kubernetes without being root
+26	Writing Rules to Disregard
+26	Vue 2.6 released
+26	Ask HN: What’s your go-to investment for protecting cash from inflation?
+26	Scramble for Africa
+25	Kubernetes at CERN: Use Cases, Integration and Challenges
+25	Simplicity helps us find the truth without pointing at it (2007) [pdf]
+25	History of the BASIC Engine (2018)
+25	Hypothetical C++: easy type creation
+25	Show HN: A rap song about squashing bugs in production
+24	IntersectionObserver in WebKit
+24	Bug: true and false are not Posix (2016)
+24	The Zipper Rule on German Roads
+23	The Bodleian's ‘secret trove of obscene material’
+23	Anand Giridharadas on the fallacy of billionaire philanthropy
+23	Linux Fu: Easier File Watching
+22	State of Clojure 2019 Survey Results
+21	Generating Mutually Recursive Definitions [pdf]
+21	Leela Chess Zero
+21	London’s Surprisingly Rich History of Transit Textile Design
+21	Scientist Who Rejects Warming Is Named to EPA Advisory Board
+21	Unknown strong signal on 14000: amateurradio
+20	A web browser reference implementation using Mozilla Android Components
+20	Mozi: No Aggression, but Universal Love (2011)
+20	Cerebral blood flow and personality: a positron emission tomography study
+20	In the Future, Senior Citizens Will Play Video Games All Day
+20	Huawei built to withstand international pressure, can it handle US indictments?
+20	Skin in the Game by Nassim Nicholas Taleb – digested read (2018)
+19	Ask HN: Are sites like Elance and Upwork worthwhile?
+19	I'm a crime-fighter, says FamilyTreeDNA after caught giving DNA data to FBI
+19	Colliding Blocks Act Like a Beam of Light [video]
+19	How Uber Makes Money
+19	WA state has a $171M bill for Comcast as major consumer protection trial ends
+18	Google Play Store Now Open for Progressive Web Apps
+18	Building a Literal Library of Building Blocks
+18	US academics feel the invisible hand of politicians and big agriculture
+18	Woman uses DNA test, finds sperm donor – and pays a “devastating” price
+17	Ask HN: The way to encrypt and protect sensitive data in database
+17	Real-Time Image Stitching for Automotive 360 Vision Systems (2014) [pdf]
+17	MIT AI Podcast: Deep Reinforcement Learning with Pieter Abbeel
+17	Chinese company secretly diverted Canadian internet traffic to China
+17	New Site Exposes How Apple Censors Apps in China
+17	Microsoft accidentally deletes customer DBs
+17	Thank You Google – Flight Cancelled
+16	Net.wars (1997)
+16	Language Design with Brian Kernighan (2016) [audio]
+16	Are Health Insurers Practicing Medicine Without a License?
+16	Psilocybin Could Become the Next Legalized Drug
+16	Hacker News API is not well designed
+16	Elon Musk Releases All Tesla Patents to Help Save the Eart
+15	Behind one of the most iconic computer games is a theory of how cities die
+15	Swift value constant can mutate using Copy-on-Write (CoW) and multi-threading
+15	Neanderthals were sprinters rather than distance runners, study suggests
+15	Shatter Secrets: Using Secret Sharing to Cross Borders with Encrypted Devices
+15	A speedy 3D printer that uses light projected into resin
+15	Mental illness is surging even in the world’s happiest countries
+15	Millions in cryptocurrencies frozen after Canadian founder's death
+15	Basecamp handled a security breach yesterday
+14	How long will a 64 bit Transaction-ID last in PostgreSQL?
+14	Much of the surface ocean will shift in color by end of 21st century
+14	The case for taking AI seriously as a threat to humanity
+14	Will Node.js forever be the sluggish Golang?
+14	Hosting Your Own Git Server: Part 1
+14	HTTP/3 explained
+14	Packages and Modern Security
+14	Google bans slew of malicious Android apps that stole user photos
+14	Nobody Knows How to Learn a Language
+14	Why did 80x25 become the text monitor standard?
+14	In 1959, AT&T Discovered There Was a Market for a Lady’s Phone
+14	Tesla Is Decades Away from Full Self-Driving Cars
+14	Cryptocurrency Exchange Locked Out of Funds After CEO's Death
+14	Ask HN: Is there spaghetti code in e.g. iOS?
+14	China is erasing its border with Hong Kong [video]
+14	Dennis M. Hope Has Owned the Moon Since 1980 Because He Says So
+14	Instead of Learn to Code, Learn to Hack Sh** Together
+13	Let Children Get Bored Again
+13	BTC investors are out $190m after the only guy with the password dies, firm says
+13	Electric taxi startup Téo Taxi closes shop, fires 460 drivers
+13	To All the Introductions I’ve Loved Before
+13	Jolly Bad Taste vs. feeble Good Taste
+13	Hollywood's Kinder, Gentler DRM Didn't Even Last a Decade
+13	Fortnite Addiction? China Has the Answer
+13	MIT Artificial Intelligence Podcast: Guest Interview With Eric Schmidt
+13	Seals took over California beach during government shutdown – won’t give it back
+13	The State of Go: Feb 2019
+13	Firm Caught Fabricating Russia Data Used by NBC to Claim Russia Supports Gabbard
+12	Cave That Housed Neandertals and Denisovans Challenge View of Cultural Evolution
+12	Cal Newport: Becoming a Digital Minimalist
+12	A Global Guide to What It Means to Be Part of the 1%
+12	'Quiet' light
+12	A Complete Program
+12	Sewing Needles Reveal the Roots of Fashion
+12	Bill Gates Made These 15 Predictions Back in 1999
+12	2,400 MOOCs Starting in February
+12	OxyContin Maker Explored Expansion into “Attractive” Anti-Addiction Market
+12	The 'Erin Brockovich town' is still toxic and nearly abandoned
+11	Fiberbots: Design of a multi-agent, fiber composite digital fabrication system
+11	Data Structure Visualizations
+11	Table Saw Accidents
+11	Python Development in Visual Studio Code
+11	Fire (and lots of it): Berkeley researcher on the only way to fix cryptocurrency
+11	Ask HN: What are you reading?
+11	Ask HN: How to practice sales without making it a career
+11	Locast, a Free App Streaming Network TV, Would Love to Get Sued
+11	NSA webcam cover, given away as promo item, is transparent
+11	Ask HN: Which 3D Printer for Product Design Prototyping in 2019?
+11	Why Everyone Is Fighting About CSS/UX and JavaScript
+11	Several States Are Investigating Facebook for Mishandling User Data
+11	Twitter CEO: Mark Zuckerberg Served Goat He Killed with a Laser Gun and a Knife
+11	Demonstrating You’re Not a Robot Is Getting Harder and Harder
+11	Veridian Dynamics
+11	Joe Rogan Experience – Jack Dorsey
+10	Snake sex is every bit as peculiar as you would expect (2017)
+10	Crypto exchange can't repay $190M because the CEO died with only password
+10	Foundations Built for a General Theory of Neural Networks
+10	Computers Were Supposed to Be Good
+10	Ubuntu vs. Debian vs. OpenSUSE on the POWER9 Raptor Talos II
+10	Outputting 3D VGA graphics with an ESP32 [video]
+10	The Human Tide: How Population Shaped the Modern World
+10	Petrarch: Everywhere a Wanderer
+10	Ask HN: Can you transition from trade secrets to open source?
+10	Comparison of Afrikaans and Dutch
+10	Rep. Ocasio-Cortez and Where Drugs Come From
+10	Google Employees Report Declining Confidence in Leaders
+10	Ask HN: Machine Learning freelancers, what do you do?
+9	NY Times, Why Are You So Worried About 23andMe's Genetic Tests?
+9	Pingdom kill its free website monitoring plan
+9	Home Affairs says encryption-busting laws now in use
+9	Apache Tomcat Native 1.2.21 Released – OpenSSL for TLS Fixes
+9	An Open Letter to Munchery’s Investors
+9	FCC struggles to convince judge that broadband isn’t “telecommunications”
+9	Common e-cigarette chemical flavorings may impair lung function
+9	Recent tweets linking to RT or Sputnik mentioning Dem presidential hopefuls
+9	Biohackers encoded malware in a strand of DNA
+9	The Southwark Hours: A New Acquisition
+9	Every HN front page post of last 3 years
+9	Show HN: A NES Emulator Written in Emacs Lisp
+9	Is (Google) search still relevant?
+9	A Few Useful Things to Know about Machine Learning (2012) [pdf]
+9	Cheap Internet of Things gadgets betray you even after you toss in the trash
+9	Ask HN: Do any Lisp beginners want to collaborate on a simple project to learn?
+9	How to protect humans in a fully automated society
+9	All Google+ comments on all sites will be deleted starting April 2, 2019
+9	Parents who don't vaccinate kids tend to be affluent, better educated
+9	Server-side rendering: how to serve authenticated content
+8	Shooting Dr. Tourette
+8	The Bleak Reality of the Instagram Experience
+8	American Colonists made a little ice age
+8	Behind Tech’s Shine, Some Warnings Signs Appear
+8	A Suspense Novelist’s Trail of Deceptions
+8	Discovering the Amiga 30 years late
+8	PCIe 5.0 Is Ready for Prime Time
+8	Show HN: Hello, CSS – A CSS template focused on readability
+8	Ask HN: What have you found the worst interview question to be?
+8	Google Hired Gig Economy Workers to Improve AI in Drone-Targeting Project
+8	Class schedules, a cease and desist from Viacom, and accidental monetization
+8	Pijul for Git users
+8	Psilocybin Mushroom Decriminalization, 2019
+8	The World Might Run Out of People
+8	Sex censorship killed the internet we love
+8	Some F-35s Could Become Unflyable by 2026
+8	Show HN: Hedge – An API and web UI for building blockchain-based apps
+8	Show HN: Process Governor – a tool to put limits on Windows processes
+8	NPM Uninstall Facebook
+8	McKinsey and Company: Capital’s Willing Executioners
+8	NSA is giving out webcam covers with backdoors
+8	Show HN: An open source, swift, offline only MacOS password manager
+8	Ask HN: Cash or equity?
+8	Spotify is in talks to buy Gimlet for more than $200M
+8	Famous Emacs Users (that are not famous for using Emacs)
+8	'Whistleblower' in White House security clearance office gets suspended
+8	Kids Learning the New Way?
+8	I Wrote a Book About Jagged Alliance 2 (2014)
+8	Canonical's Web and Design team use GitHub to agree on team standards
+8	Ask HN: Has anyone got any offers via “Who wants to be hired” thread?
+8	Ask HN: What is the HN of economic news?
+7	Linking OpenStreetMap and Wikidata a semi-automated, user-assisted editing tool
+7	Show HN: pavoq – WebGL Shaders as Website Backgrounds – Written in Rust and Elm
+7	A third of Himalayan ice cap doomed, finds report
+7	Super simple graph in TypeScript using an adjacency matrix
+7	How to Build a Reading Habit (2019)
+7	A Brief Introduction to Type Theory and the Univalence Axiom [pdf]
+7	Show HN: Code-Knack – A code evaluator on your web page
+7	Image Processing for the begineers Using Opencv Python
+7	A Walk Through Toolangi State Forest
+7	Show HN: An HTML abstraction centered on simplicity
+7	Wernher von Braun on how to reach the Moon (1955)
+7	Ask HN: Are there any non-security-dumpster-fire forum projects?
+7	Essential Tips for Managing Remote Employees
+7	New site exposes how Apple censors apps in China
+7	Google Screenwise: An Unwise Trade of All Your Privacy for Cash
+7	Using AI to find where Clowns end and Juggalos begin
+7	Facebook Enterprise Certificates Restored
+7	Guy holds the world record for collecting spreadsheets
+7	Mozilla Hubs For Education?
+6	Edge Detection in Computer Vision
+6	RetDec: open-source machine-code decompiler based on LLVM
+6	The Hutter Prize
+6	The AdTech Industry Is Ruining Web Push Notifications for PWAs – Vance Lucas
+6	Alan Kay, 2018: The Best Way to Predict the Future Is to Create It. But
+6	The Amiga Clock Was a Memorial to the Challenger Disaster
+6	Right to Repair roars out of the gate in 2019
+6	The Intel 80386, part 11: The TEB
+6	Show HN: Huffgram helps you memorize data
+6	Time-Series DB for event sourcing
+6	YouTube will experiment with ways to prevent dislike button 'mobs'
+6	Pirate Bay ‘Promotion’ Increases Post-Release Box Office Revenue, Study Shows
+6	Face Recognition with Python, in Under 25 Lines of Code
+6	Digital exchange loses $137M as founder takes passwords to the grave
+6	The Case for Professors of Stupidity
+6	Chinese employee charged for stealing Apple Car project details
+6	The Baumans, Sellers of Rare Books
+6	AI on Raspberry Pi with the Intel Neural Compute Stick
+6	Show HN: Searchable career-paths built by scraping publicly available resumes
+6	Ask HN: Recommended Courses for Introduction to R/Data Science?
+6	A modern version of Python
+6	Huawei’s Clout Is So Strong It’s Helping Shape Global 5G Rules
+6	Neurotech Startups to Watch: Brain Interfaces,Implantables,Neuroprosthetics
+6	GNU GCC 10 to Implement MMX Intrinsics with SSE
+6	Google releases dataset to help AI systems spot fake audio recordings
+6	FamilyTreeDNA Hands the FBI Access to Its Database
+6	Typhus Epidemic Worsens in Los Angeles
+6	Americans who thwarted train terror attack become French citizens
+6	Man evades capture for 15 years by using fingerprint implants
+6	Ask HN: Startup could be killed with a single feature?
+6	Skipping breakfast may help you lose weight, what hunter gatherers can teach us
+6	PHP RFC: JIT
+6	2019: What’s Coming Next on DigitalOcean
+6	The state of play on visa-free travel to the EU post-Brexit
+5	Software is eating the world. And it’s only the beginning. [video]
+5	Real-Time Continuous Transcription with Live Transcribe
+5	NPR's How I Built This: What I Learned from 51 Episodes
+5	Human and Machine Consciousness (2018) [pdf]
+5	European Commission orders mass recall of creepy leaky child-tracking smartwatch
+5	Flying Squirrels That Glow Pink in the Dark
+5	QuadrigaCX crypto exchange collapse: what we know so far
+5	Hawaii is considering a bill that bans cigarette sales to anyone under 100
+5	The Guy Who Sent a Hiring Manager a Shoe to “Get a Foot in the Door”
+5	Microservices After Two Years
+5	Columbus Lowered World Temperature
+5	The Nature of Sex
+5	Show HN: The New Organs – an archive of stories about creepy targeted ads
+5	Application-Database Co-Evolution: A New Design and Development Paradigm [pdf]
+5	Show HN: Footing - A Foundation for Developing REST APIs with Express and Nodejs
+5	In Estonia, students’ transit, school meals, and textbooks are all free
+5	What We Wrote About Facebook 12 Years Ago
+5	Manhattan DA busts hacker in 'SIM swapping' scam that hit 50 mobile phone users
+5	Raspberry Pi 4: Release Date, Specs, Price, Everything We Know
+5	Italian court forces BitGrail CEO to repay $170M in ‘lost’ cryptocurrency
+5	The Age of Surveillance Capitalism by Shoshana Zuboff Review – We Are the Pawns
+5	Xkcd on the dishonesty implicit in the sharing options in social media
+5	When whisper networks let us down (2018)
+5	A new net neutrality bill is headed to Congress
+5	Pentesting Azure – How To
+5	Fallout from Apple's Intelligent Tracking Prevention Is Severe
+5	'AI Farms' Are at the Forefront of China's Global Ambitions
+5	Using Memory Differently
+5	Everyone’s Missing the Obvious About the Declining U.S. Birth Rate
+4	Crypto Exchange Founder Dies with Only Password
+4	An Astrophysicist Who Maps the Universe’s Terra Incognita
+4	Nest Secure has an unlisted, disabled microphone
+4	ExtremeNet: Bottom-Up Object Detection by Grouping Extreme and Center Points
+4	Magnetic north pole moving 'pretty fast' towards Russia
+4	Magnetic north just changed. Here's what that means
+4	Top resources for startups that power you ahead
+4	Only half of Internet of Crap apps fumble encryption
+4	Facebook Hires Up Three of Its Biggest Privacy Critics
+4	Popular Fruit Juices Contain High Levels of Heavy Metals, Consumer Reports Says
+4	YouTube is trying to prevent angry mobs from abusing “dislike” button
+4	Ask HN: Would someone be interested in learning (and for projects) ML together?
+4	Domain-Driven Design: The First 15 Years
+4	I built my own dial-up ISP on a desk
+4	Japan’s Working Mothers: Record Responsibilities, Little Help from Dads
+4	Rich kids are cheating in school with Apple Watches
+4	The cast of the new Dune film is the Avengers of talent
+4	Artificial Intelligence, Algorithmic Pricing, and Collusion
+4	Integrated Information Theory of Consciousness
+4	Family Tree DNA permits FBI to use genetic database to help violent crime
+4	A Mulching Proposal [pdf]
+4	Show HN: Use keyboard shortcuts to launch your favorite URLs [Chrome Extension]
+4	Finding Lena, the Patron Saint of JPEGs
+4	Privilege escalation vulnerability uncovered in Microsoft Exchange
+4	Facebook Moves to Block Ad Transparency Tools
+4	A Surprise Breakfast Burrito Helped Twilio Acquire SendGrid in a $3B Deal
+4	Brazil (1985 film)
+4	Meet the 14-year-old who discovered Apple’s shocking FaceTime bug
+4	The Latest YA Twitter Pile on Forces a Rising Star to Self-Cancel
+4	What I learned from giving up everything I knew as a leader - Jim Whitehurst
+4	Could Black English Mean a Prison Sentence?
+4	Worker wage gains just broke 3% for the first time in more than 10 years
+4	Kremlin leaves backdoor account in thousands of unprotected business databases
+4	Russian troll accounts deleted by Twitter pushed Qanon and other conspiracies
+3	Google GDPR fine shows 'embarrassing' extent of how firms misuse people's data
+3	No to Online Voting in Virginia
+3	Google hired microworkers to train its controversial Project Maven AI
+3	Chrome OS is the ultimate productivity hack and will exceed Mac OS marketshare
+3	Super Bowl Bets: FanDuel Lost $5M on First Legal N.J. Bets
+3	Highest Court in Indiana Set to Decide If You Can Be Forced to Unlock Your Phone
+3	Colliding blocks act like a beam of light to compute pi
+3	Adobe open sources Ops-CLI for cloud automation
+3	Pot legalization activist turns sights on prostitution, ‘comes out’ as client
+3	Useful design guide for designers, creators and enthusiasts
+3	r/vimkeyboard
+3	Toyota is becoming more efficient by replacing robots with humans (2014)
+3	Hacker spoke to baby, hurled obscenities at couple using Nest camera, dad says
+3	The State of the Zcash Foundation in 2019
+3	The death of transit and the future Internet [pdf]
+3	A Nazi Interrogator Who Revealed the Value of Kindness (2014)
+3	PolyMod: an open-source modular polyphonic digital synthesizer
+3	QuadrigaCX Chain Analysis Report (Pt. 1): Bitcoin Wallets
+3	Are There Things Which We Should Not Know? (1998)
+3	Show HN: OnlineOrNot – A GraphQL Snapshot Testing and Monitoring Service
+3	Show HN: Browser-Based Korg Monotron Duo Clone
+3	NPSK – Russian National Payment Card System
+3	Ask HN: Best and worst co-working spaces in SF?
+3	Kubernetes Culture Change
+3	Using AI to Generate Alt Text on Images
+0	BuildZoom (marketplace for construction) is hiring engineers
